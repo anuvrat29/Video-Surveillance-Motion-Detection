@@ -17,4 +17,4 @@ This code will detect the motion from webcam. You can use this code on any webca
 2.  Visit this URL in UI.
 
 3.  If you want to run on specific IP then change "host" in motiondetect.py
-4.  And visit http://<IP-ADDRESS>:65000.
+4.  And visit http://IP-ADDRESS:65000.
